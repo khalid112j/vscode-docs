@@ -1,4 +1,4 @@
-The text you provided is a copyright notice from Microsoft Corporation. Below is a revised version that clarifies the message and corrects any errors:
+"The text you provided is a copyright notice from Microsoft Corporation. Below is a revised version that clarifies the message and corrects any errors:"
 
 "Copyright owned by Microsoft Corporation protects this content. All rights are reserved. This content is distributed under the following terms and conditions."
 
